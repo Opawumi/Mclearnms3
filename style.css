@@ -1,0 +1,46 @@
+#navbarNavDropdown{
+    justify-content: center;
+}
+h2{
+ color: rgb(2, 2, 82);
+}
+.d-flex{
+    align-items: flex-start;
+}
+/* #container{
+    display:grid;
+    max-width: 960px;
+    margin: 0 auto;
+    padding: 30px;
+} */
+.lead1{
+    width: max-content;
+    background-color: rgb(233, 233, 233);
+}
+.lead2{
+    font-size: 15px;
+}
+.backg{
+    background-color: rgb(249, 249, 249);
+}
+.footer{
+    background-color: blue;
+.get{
+    margin-left: 25px;
+}
+.for{
+    font-size: small;
+}
+.terms{
+    font-size: small;
+}
+.line{
+    border-top: 1px solid white;
+}
+.for2{
+    text-align: center;
+    margin-left: 600px;
+    font-size: x-small;
+    word-spacing: 2px;
+    letter-spacing: 1px;
+}
